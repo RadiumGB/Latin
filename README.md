@@ -1,3 +1,4 @@
 # Latin
- 
-<h1> Welcome </h1>
+<!DOCTYPE html>
+<head> Welcome </head>
+
